@@ -9,7 +9,7 @@ This font is an experimental variable font that tests the idea of connecting rev
 * project url:
 * project status: alpha (released, gamma, beta, alpha)
 * tools: Glyphs App V.3
-* similar fonts:
+* similar fonts: Caslon Italian, Modern No.20, Memphis
 * sample text: Hamburgefönstiv
 
 ### COPYRIGHT.md & TRADEMARK.md
